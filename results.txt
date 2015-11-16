@@ -1,0 +1,41 @@
+16 6 10 lru off
+Memory accesses: 100000
+Hits: 65301
+Misses: 34699
+Miss ratio: 0.34699000
+
+16 6 2 lru off
+Memory accesses: 100000
+Hits: 65052
+Misses: 34948
+Miss ratio: 0.34948000	
+
+16 6 4 lru off
+Memory accesses: 100000
+Hits: 65335
+Misses: 34665
+Miss ratio: 0.34665000	
+
+16 6 0 lru off
+Memory accesses: 100000
+Hits: 64617
+Misses: 35383
+Miss ratio: 0.35383000	
+
+16 6 2 fifo off
+Memory accesses: 100000
+Hits: 65176
+Misses: 34824
+Miss ratio: 0.34824000	
+
+16 6 4 fifo off
+Memory accesses: 100000
+Hits: 65148
+Misses: 34852
+Miss ratio: 0.34852000
+
+16 6 0 fifo off
+Memory accesses: 100000
+Hits: 64617
+Misses: 35383
+Miss ratio: 0.35383000	
